@@ -1,0 +1,25 @@
+h1{
+	margin-left: 70px;
+	margin-top: 180px;
+}
+
+h3{
+	margin-left: 70px;
+	color: #FD860F;
+}
+
+form{
+	margin-left: 70px;
+}
+
+.btn{
+	background-color: #FD860F;
+}
+
+.navbar{
+	min-height: 200px;
+}
+
+.navbar .navbar-brand{
+	margin-bottom: 80px;
+}
