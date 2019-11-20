@@ -20,6 +20,10 @@ form{
 	background-color: #FD860F;
 }
 
+nav {
+	background-color: #cddbca;
+}
+
 .navbar{
 	min-height: 200px;
 }
@@ -33,11 +37,14 @@ form{
  	left: 0;
  	bottom: 0;
  	width: 100%;
- 	background-color: grey;
  	color: #fff5ec;
  	text-align: center;
  	height: 50px;
  	background-color: #789d6f;
+}
+
+table {
+	width: 100%;
 }
 
 p {
