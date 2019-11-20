@@ -3,6 +3,10 @@ h1{
 	margin-top: 180px;
 }
 
+h2 {
+	color: #FD860F;
+}
+
 h3{
 	margin-left: 70px;
 	color: #FD860F;
@@ -22,4 +26,32 @@ form{
 
 .navbar .navbar-brand{
 	margin-bottom: 80px;
+}
+
+
+.footer {
+ 	left: 0;
+ 	bottom: 0;
+ 	width: 100%;
+ 	background-color: grey;
+ 	color: #fff5ec;
+ 	text-align: center;
+ 	height: 50px;
+ 	background-color: #789d6f;
+}
+
+p {
+	font-size: 20px;
+	color: #283625;
+}
+
+strong {
+	color: #317aa6;
+	font-size: 22px;
+}
+
+a {
+	font-size: 25px;
+	color: #be6001;
+	text-decoration: underline;	
 }
