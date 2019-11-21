@@ -20,6 +20,7 @@ form{
 }
 .navbar{
 	min-height: 200px;
+	
 }
 .navbar .navbar-brand{
 	margin-bottom:80px;
@@ -35,7 +36,7 @@ form{
  	background-color: #789d6f;
 }
 p, li {
-	font-size: 20px;
+	font-size: 19px;
 	color: #283625;
 }
 strong {
