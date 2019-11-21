@@ -20,7 +20,6 @@ form{
 }
 .navbar{
 	min-height: 200px;
-	
 }
 .navbar .navbar-brand{
 	margin-bottom:80px;
@@ -53,6 +52,9 @@ a {
 }
 .top{
 	color:#55724e;
+	margin-top:0px;
+	font-family:'Playfair Display SC', serif;
+	font-size:50px;
 
 }
 .subtop {
